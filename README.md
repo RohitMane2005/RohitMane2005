@@ -13,16 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmane2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 Contribution Activity
-<div align="center">
-
-<a href="https://github.com/RohitMane2005">
-  <img src="https://ghchart.rshah.org/RohitMane2005"
-       alt="GitHub Contributions"
-       style="transition:transform .3s ease;
-              border-radius:16px;" />
-</a>
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitmane2005&" alt="rohitmane2005" /></p>
 
 
 
