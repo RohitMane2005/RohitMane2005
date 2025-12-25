@@ -12,21 +12,24 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=rohitmane2005&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmane2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 📅 GitHub Contributions
 <div align="center">
 
-### 📅 Contributions
-
-<img src="https://ghchart.rshah.org/1f6feb/RohitMane2005"
+<img src="https://ghchart.rshah.org/RohitMane2005"
      alt="GitHub Contribution Calendar"
      style="
-       background:#0d1117;
-       padding:20px;
-       border-radius:12px;
-       border:1px solid #30363d;
-       max-width:100%;
+       background: rgba(13,17,23,0.65);
+       backdrop-filter: blur(12px);
+       -webkit-backdrop-filter: blur(12px);
+       padding: 22px;
+       border-radius: 16px;
+       border: 1px solid rgba(255,255,255,0.12);
+       box-shadow: 0 8px 30px rgba(0,0,0,0.6);
+       max-width: 100%;
      " />
 
 </div>
+
 
 
 
