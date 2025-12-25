@@ -12,8 +12,21 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=rohitmane2005&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmane2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 Contribution Activity
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitmane2005&" alt="rohitmane2005" /></p>
+<div align="center">
+
+### 📅 Contributions
+
+<img src="https://ghchart.rshah.org/1f6feb/RohitMane2005"
+     alt="GitHub Contribution Calendar"
+     style="
+       background:#0d1117;
+       padding:20px;
+       border-radius:12px;
+       border:1px solid #30363d;
+       max-width:100%;
+     " />
+
+</div>
 
 
 
