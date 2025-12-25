@@ -12,6 +12,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=rohitmane2005&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmane2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🔥 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=RohitMane2005&theme=react-dark)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rohitmane2005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
