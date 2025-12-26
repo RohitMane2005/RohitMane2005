@@ -49,12 +49,14 @@ I enjoy debugging complex issues and refining solutions until they meet both **t
 
 ## 📊 GitHub Activity
 
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=rohitmane2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rohitmane2005&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmane2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rohitmane2005&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
 ---
 
@@ -62,10 +64,14 @@ I enjoy debugging complex issues and refining solutions until they meet both **t
 
 <div align="center">
 
-<img src="https://github.com/RohitMane2005/RohitMane2005/raw/output/github-contribution-grid-snake-dark.svg" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitMane2005&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=RohitMane2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=RohitMane2005&theme=tokyonight&hide_border=true" width="48%"/>
 
 </div>
-
 
 ## 🏆 Highlights
 
