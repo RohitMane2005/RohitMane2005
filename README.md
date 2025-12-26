@@ -46,16 +46,34 @@ I enjoy debugging complex issues and refining solutions until they meet both **t
 </div>
 
 ---
+## 📌 Pinned Projects (Selected Work)
 
-## 📊 GitHub Activity
-
-<div align="center">
-![](https://github-readme-stats.vercel.app/api?username=rohitmane2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rohitmane2005&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmane2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 🔹 Java Library Management System
+**Tech:** Java, JDBC, MySQL  
+A role-based Java application implementing book issue/return workflows with persistent database storage using DAO architecture.  
+🔗 Repository: https://github.com/RohitMane2005/java-library-management-system
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rohitmane2005&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 🔹 Personal Portfolio Website
+**Tech:** HTML, CSS, JavaScript  
+A responsive portfolio showcasing projects and skills with modern UI, glassmorphism design, and smooth animations.  
+🔗 Live Demo / Repo: https://github.com/RohitMane2005/portfolio
+
+---
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RohitMane2005&theme=tokyonight&show_icons=true&hide_border=true" width="48%"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=RohitMane2005&theme=tokyonight&hide_border=true" width="48%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitMane2005&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
+
 </div>
 
 ---
@@ -66,12 +84,9 @@ I enjoy debugging complex issues and refining solutions until they meet both **t
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitMane2005&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=RohitMane2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=RohitMane2005&theme=tokyonight&hide_border=true" width="48%"/>
-
 </div>
+
+---
 
 ## 🏆 Highlights
 
