@@ -1,10 +1,10 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rohit+Mane+%F0%9F%91%8B;Aspiring+Software+Development+Engineer;Java+%7C+DSA+%7C+Full+Stack+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rohit+Mane;Aspiring+Software+Development+Engineer;Java+%7C+DSA+%7C+Full+Stack+Projects" />
 
 <p align="center">
-  <b>Building scalable systems, elegant UIs, and strong problem-solving skills.</b>
+  <b>Building scalable software, clean architectures, and intuitive user experiences.</b>
 </p>
 
 </div>
@@ -13,14 +13,14 @@
 
 ## 🧠 About Me
 
-> *I don’t just write code — I engineer solutions.*
+I am an **aspiring Software Development Engineer** with a strong foundation in **Java, object-oriented programming, and data structures**. I focus on writing **clean, maintainable code** and building projects that reflect real-world engineering practices.
 
-🔭 Building **real-world full-stack applications** with clean architecture  
-👯 Collaborating on **web apps, Java projects & open source**  
-🤝 Seeking guidance in **system design & scalable backend patterns**  
-🌱 Learning **advanced Java, DSA, animations & performance optimization**  
-💬 Ask me about **Java, DSA, UI engineering & portfolio strategy**  
-⚡ Fun fact: I refine UIs pixel-by-pixel and enjoy deep debugging sessions 😄  
+- Developing **Java-based backend and full-stack applications**
+- Applying **DSA concepts** to improve performance and problem-solving
+- Exploring **scalable system design and backend patterns**
+- Continuously improving UI quality, responsiveness, and code readability
+
+I enjoy debugging complex issues and refining solutions until they meet both **technical and user-experience standards**.
 
 ---
 
@@ -37,7 +37,7 @@
 
 ---
 
-## ⚙️ Tech Arsenal
+## ⚙️ Tech Stack
 
 <div align="center">
 
@@ -47,7 +47,7 @@
 
 ---
 
-## 📊 GitHub Performance
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -64,7 +64,7 @@
 
 ---
 
-## 📅 Contribution Activity (Glass Card)
+## 📅 Contribution Overview
 
 <div align="center">
 
@@ -83,7 +83,7 @@
 
 ---
 
-## 🏆 Achievements & Recognition
+## 🏆 Highlights
 
 <div align="center">
 
@@ -93,21 +93,11 @@
 
 ---
 
-## 🚀 Top Open Source Impact
+## 🧩 Engineering Mindset
 
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=RohitMane2005&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-
-</div>
-
----
-
-## 🧩 Philosophy
-
-> **Consistency beats motivation.  
-> Clean code beats clever hacks.  
-> Learning never stops.**
+> **Consistency over motivation.**  
+> **Clarity over cleverness.**  
+> **Learning as a lifelong process.**
 
 ---
 
