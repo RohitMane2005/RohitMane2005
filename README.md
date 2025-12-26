@@ -86,6 +86,14 @@ A responsive portfolio showcasing projects and skills with modern UI, glassmorph
 
 </div>
 
+---## 📅 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitMane2005&theme=github-dark&hide_border=true&area=false" width="95%"/>
+
+</div>
+
 ---
 
 ## 🏆 Highlights
