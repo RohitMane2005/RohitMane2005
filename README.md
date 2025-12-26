@@ -82,15 +82,10 @@ A responsive portfolio showcasing projects and skills with modern UI, glassmorph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitMane2005&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----## 📅 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitMane2005&theme=github-dark&hide_border=true&area=false" width="95%"/>
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=RohitMane2005&theme=github-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" 
+  width="95%" 
+/>
 
 </div>
 
