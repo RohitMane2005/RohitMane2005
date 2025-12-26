@@ -64,24 +64,14 @@ I enjoy debugging complex issues and refining solutions until they meet both **t
 
 ---
 
-## 📅 Contribution Overview
+## 📅 Contribution Activity
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/RohitMane2005"
-     alt="GitHub Contribution Calendar"
-     style="
-       background: rgba(13,17,23,0.75);
-       padding: 24px;
-       border-radius: 18px;
-       border: 1px solid rgba(255,255,255,0.15);
-       box-shadow: 0 10px 40px rgba(0,0,0,0.6);
-       max-width: 100%;
-     " />
+<img src="https://github.com/RohitMane2005/RohitMane2005/raw/output/github-contribution-grid-snake-dark.svg" width="90%" />
 
 </div>
 
----
 
 ## 🏆 Highlights
 
