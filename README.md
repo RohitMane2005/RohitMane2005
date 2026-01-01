@@ -1,10 +1,10 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Rohit+Mane;Aspiring+Software+Development+Engineer;Java+%7C+DSA+%7C+Backend+%26+Full+Stack+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rohit+Mane;Aspiring+Software+Development+Engineer;Java+%7C+DSA+%7C+Full+Stack+Projects" />
 
 <p align="center">
-  <b>Building reliable software with clean architecture, efficient logic, and real-world engineering practices.</b>
+  <b>Building scalable software, clean architectures, and intuitive user experiences.</b>
 </p>
 
 </div>
@@ -13,15 +13,14 @@
 
 ## 🧠 About Me
 
-I am an **aspiring Software Development Engineer** with a strong foundation in **Java, Object-Oriented Programming, and Data Structures**.  
-My focus is on building **production-quality applications** that emphasize **clarity, scalability, and maintainability**.
+I am an **aspiring Software Development Engineer** with a strong foundation in **Java, object-oriented programming, and data structures**. I focus on writing **clean, maintainable code** and building projects that reflect real-world engineering practices.
 
 - Developing **Java-based backend and full-stack applications**
-- Applying **DSA concepts** to optimize performance and reduce complexity
-- Writing **clean, modular, and testable code**
-- Improving **UI responsiveness and system reliability**
+- Applying **DSA concepts** to improve performance and problem-solving
+- Exploring **scalable system design and backend patterns**
+- Continuously improving UI quality, responsiveness, and code readability
 
-I enjoy debugging edge cases, refactoring codebases, and continuously improving solutions until they meet **real-world engineering standards**.
+I enjoy debugging complex issues and refining solutions until they meet both **technical and user-experience standards**.
 
 ---
 
@@ -29,10 +28,10 @@ I enjoy debugging edge cases, refactoring codebases, and continuously improving 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohit-mane-570487333/">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:rohitbusiness5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -47,51 +46,56 @@ I enjoy debugging edge cases, refactoring codebases, and continuously improving 
 </div>
 
 ---
-
-## 📌 Featured Projects
+## 📌 Pinned Projects (Selected Work)
 
 ### 🔹 Java Library Management System
-**Tech:** Java · JDBC · MySQL · DAO Pattern  
-
-A **role-based backend application** implementing book issue/return workflows with **persistent database storage**.  
-Designed using **DAO architecture** to ensure separation of concerns, scalability, and maintainability.
-
-🔗 **Repository:**  
-https://github.com/RohitMane2005/java-library-management-system
+**Tech:** Java, JDBC, MySQL  
+A role-based Java application implementing book issue/return workflows with persistent database storage using DAO architecture.  
+🔗 Repository: https://github.com/RohitMane2005/java-library-management-system
 
 ---
 
 ### 🔹 Personal Portfolio Website
-**Tech:** HTML · CSS · JavaScript  
-
-A **fully responsive personal portfolio** showcasing projects and skills with **modern UI**, glassmorphism styling, and smooth animations.
-
-🔗 **Live Demo / Repository:**  
-https://github.com/RohitMane2005/portfolio
+**Tech:** HTML, CSS, JavaScript  
+A responsive portfolio showcasing projects and skills with modern UI, glassmorphism design, and smooth animations.  
+🔗 Live Demo / Repo: https://github.com/RohitMane2005/portfolio
 
 ---
 
-## 📊 GitHub Overview
+
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=RohitMane2005&theme=tokyonight&show_icons=true&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitMane2005&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=RohitMane2005&theme=tokyonight&hide_border=true" width="48%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitMane2005&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitMane2005&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+## 📅 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RohitMane2005/RohitMane2005/output/github-contribution-grid-snake-dark.svg" />
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=RohitMane2005&theme=github-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" 
+  width="95%" 
+/>
+
+</div>
+
+---
+
+## 🏆 Highlights
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RohitMane2005&theme=algolia&no-frame=true&margin-w=10"/>
 
 </div>
 
@@ -99,15 +103,14 @@ https://github.com/RohitMane2005/portfolio
 
 ## 🧩 Engineering Mindset
 
-> **Consistency over motivation**  
-> **Readability over clever hacks**  
-> **Engineering is a long-term craft**
+> **Consistency over motivation.**  
+> **Clarity over cleverness.**  
+> **Learning as a lifelong process.**
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=RohitMane2005&icon=5&color=7AA2F7" />
+  <img src="https://visitcount.itsvg.in/api?id=RohitMane2005&icon=5&color=6" />
 </p>
 
 <!-- ===================== END ===================== -->
-
