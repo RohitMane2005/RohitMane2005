@@ -1,7 +1,7 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Rohit+Mane;Aspiring+Software+Development+Engineer;Java+%7C+DSA+%7C+Backend+%26+Full+Stack" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Rohit+Mane;Aspiring+Software+Development+Engineer;Java+%7C+DSA+%7C+Backend+%26+Full+Stack+Projects" />
 
 <p align="center">
   <b>Building reliable software with clean architecture, efficient logic, and real-world engineering practices.</b>
@@ -14,14 +14,14 @@
 ## 🧠 About Me
 
 I am an **aspiring Software Development Engineer** with a strong foundation in **Java, Object-Oriented Programming, and Data Structures**.  
-I focus on building **production-ready applications** that emphasize **clarity, scalability, and maintainability**.
+My focus is on building **production-quality applications** that emphasize **clarity, scalability, and maintainability**.
 
 - Developing **Java-based backend and full-stack applications**
-- Applying **DSA concepts** to optimize performance
+- Applying **DSA concepts** to optimize performance and reduce complexity
 - Writing **clean, modular, and testable code**
 - Improving **UI responsiveness and system reliability**
 
-I enjoy debugging edge cases, refactoring codebases, and continuously improving solutions to meet **real-world engineering standards**.
+I enjoy debugging edge cases, refactoring codebases, and continuously improving solutions until they meet **real-world engineering standards**.
 
 ---
 
@@ -53,8 +53,8 @@ I enjoy debugging edge cases, refactoring codebases, and continuously improving 
 ### 🔹 Java Library Management System
 **Tech:** Java · JDBC · MySQL · DAO Pattern  
 
-A **role-based backend application** implementing book issue/return workflows with persistent database storage.  
-Designed using **DAO architecture** to ensure scalability and separation of concerns.
+A **role-based backend application** implementing book issue/return workflows with **persistent database storage**.  
+Designed using **DAO architecture** to ensure separation of concerns, scalability, and maintainability.
 
 🔗 **Repository:**  
 https://github.com/RohitMane2005/java-library-management-system
@@ -64,7 +64,7 @@ https://github.com/RohitMane2005/java-library-management-system
 ### 🔹 Personal Portfolio Website
 **Tech:** HTML · CSS · JavaScript  
 
-A **fully responsive personal portfolio** showcasing projects and skills with modern UI, glassmorphism styling, and smooth animations.
+A **fully responsive personal portfolio** showcasing projects and skills with **modern UI**, glassmorphism styling, and smooth animations.
 
 🔗 **Live Demo / Repository:**  
 https://github.com/RohitMane2005/portfolio
@@ -99,8 +99,8 @@ https://github.com/RohitMane2005/portfolio
 
 ## 🧩 Engineering Mindset
 
-> **Clarity over complexity**  
-> **Consistency over intensity**  
+> **Consistency over motivation**  
+> **Readability over clever hacks**  
 > **Engineering is a long-term craft**
 
 ---
@@ -110,3 +110,4 @@ https://github.com/RohitMane2005/portfolio
 </p>
 
 <!-- ===================== END ===================== -->
+
