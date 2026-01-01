@@ -1,10 +1,10 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rohit+Mane;Software+Development+Engineer+in+Progress;Java+%7C+DSA+%7C+Full+Stack+Engineering" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi,+I'm+Rohit+Mane;Software+Engineer+|+Java+%7C+DSA+%7C+Full+Stack" />
 
 <p align="center">
-  <b>Designing scalable systems, writing clean code, and solving problems with engineering discipline.</b>
+  <b>Designing scalable systems & building real world solutions with clean, maintainable code.</b>
 </p>
 
 </div>
@@ -13,19 +13,18 @@
 
 ## 🧠 About Me
 
-I am a **Software Development Engineer in progress** with a strong foundation in **Java, Object-Oriented Programming, and Data Structures & Algorithms**. I focus on building **robust, maintainable, and scalable software** while continuously improving my problem-solving depth.
+I’m a **Software Engineer** passionate about building scalable backend systems and intuitive full-stack applications, with a focus on:
 
-- Build **Java-based backend and full-stack applications**
-- Apply **DSA patterns** to write efficient, optimized solutions
-- Follow **clean architecture & DAO-based designs**
-- Improve **code readability, performance, and scalability**
-- Actively practice **real-world engineering trade-offs**
+- Writing **clean, maintainable, high-performance code**
+- Solving complex problems with **Data Structures & Algorithms**
+- Designing **modular architectures** and **practical engineering solutions**
+- Building **real products** that deliver value
 
-I enjoy debugging complex issues, refactoring code for clarity, and turning ideas into reliable software systems.
+I love optimizing systems, refining user experiences, and exploring backend design patterns and best practices.
 
 ---
 
-## 🌐 Connect With Me
+## 📬 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohit-mane-570487333/">
@@ -41,28 +40,26 @@ I enjoy debugging complex issues, refactoring code for clarity, and turning idea
 ## ⚙️ Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,git,github&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,git,github&theme=dark" />
 </div>
 
 ---
 
-## 📌 Pinned Projects (Selected Work)
+## 🗂 Key Projects
 
 ### 🔹 Java Library Management System
-**Tech:** Java, JDBC, MySQL  
-A role-based backend system implementing **book issue/return workflows**, **persistent database storage**, and **DAO architecture**.  
-Focuses on clean separation of concerns, data integrity, and real-world CRUD operations.  
-🔗 Repository: https://github.com/RohitMane2005/java-library-management-system
+**Tech:** Java · JDBC · MySQL  
+A role-based backend system implementing book issue/return workflows, persistent storage, and clean DAO-driven architecture.  
+Focus: system design, scalability, and robust transaction logic.  
+🔗 https://github.com/RohitMane2005/java-library-management-system
 
 ---
 
 ### 🔹 Personal Portfolio Website
-**Tech:** HTML, CSS, JavaScript  
-A responsive personal portfolio featuring **glassmorphism UI**, **smooth animations**, and modular JavaScript for better maintainability.  
-Designed with strong focus on **UI/UX consistency and performance**.  
-🔗 Live Demo / Repo: https://github.com/RohitMane2005/portfolio
+**Tech:** HTML · CSS · JavaScript  
+Responsive portfolio demonstrating professional UI/UX, modern design patterns, and clean frontend structure.  
+Focus: responsiveness, usability, and performance optimizations.  
+🔗 https://github.com/RohitMane2005/portfolio
 
 ---
 
@@ -70,8 +67,8 @@ Designed with strong focus on **UI/UX consistency and performance**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RohitMane2005&theme=tokyonight&show_icons=true&hide_border=true" width="48%"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=RohitMane2005&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RohitMane2005&theme=tokyonight&show_icons=true&hide_border=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitMane2005&theme=tokyonight&hide_border=true" width="49%"/>
 
 <br/><br/>
 
@@ -81,39 +78,23 @@ Designed with strong focus on **UI/UX consistency and performance**.
 
 ---
 
-## 📅 Contribution Activity
+## 🏆 What I Bring
 
-<div align="center">
-
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=RohitMane2005&theme=github-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" 
-  width="95%" 
-/>
-
-</div>
+- **System building mindset** — from design to deployment  
+- **Practical problem solving** with optimized solutions  
+- **Consistent growth** through learning and building  
+- **Collaborative engineering mindset**
 
 ---
 
-## 🏆 Highlights
+## 📌 Engineering Principles
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RohitMane2005&theme=algolia&no-frame=true&margin-w=10"/>
-
-</div>
-
----
-
-## 🧩 Engineering Mindset
-
-> **Consistency over motivation**  
-> **Simplicity over overengineering**  
-> **Learning through building**
+> **Clarity over cleverness.**  
+> **Testing before release.**  
+> **Modular design for future growth.**
 
 ---
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=RohitMane2005&icon=5&color=6" />
 </p>
-
-<!-- ===================== END ===================== -->
