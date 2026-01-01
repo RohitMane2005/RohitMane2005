@@ -1,10 +1,10 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rohit+Mane;Aspiring+Software+Development+Engineer;Java+%7C+DSA+%7C+Full+Stack+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rohit+Mane;Software+Development+Engineer+in+Progress;Java+%7C+DSA+%7C+Full+Stack+Engineering" />
 
 <p align="center">
-  <b>Building scalable software, clean architectures, and intuitive user experiences.</b>
+  <b>Designing scalable systems, writing clean code, and solving problems with engineering discipline.</b>
 </p>
 
 </div>
@@ -13,14 +13,15 @@
 
 ## 🧠 About Me
 
-I am an **aspiring Software Development Engineer** with a strong foundation in **Java, object-oriented programming, and data structures**. I focus on writing **clean, maintainable code** and building projects that reflect real-world engineering practices.
+I am a **Software Development Engineer in progress** with a strong foundation in **Java, Object-Oriented Programming, and Data Structures & Algorithms**. I focus on building **robust, maintainable, and scalable software** while continuously improving my problem-solving depth.
 
-- Developing **Java-based backend and full-stack applications**
-- Applying **DSA concepts** to improve performance and problem-solving
-- Exploring **scalable system design and backend patterns**
-- Continuously improving UI quality, responsiveness, and code readability
+- Build **Java-based backend and full-stack applications**
+- Apply **DSA patterns** to write efficient, optimized solutions
+- Follow **clean architecture & DAO-based designs**
+- Improve **code readability, performance, and scalability**
+- Actively practice **real-world engineering trade-offs**
 
-I enjoy debugging complex issues and refining solutions until they meet both **technical and user-experience standards**.
+I enjoy debugging complex issues, refactoring code for clarity, and turning ideas into reliable software systems.
 
 ---
 
@@ -46,22 +47,24 @@ I enjoy debugging complex issues and refining solutions until they meet both **t
 </div>
 
 ---
+
 ## 📌 Pinned Projects (Selected Work)
 
 ### 🔹 Java Library Management System
 **Tech:** Java, JDBC, MySQL  
-A role-based Java application implementing book issue/return workflows with persistent database storage using DAO architecture.  
+A role-based backend system implementing **book issue/return workflows**, **persistent database storage**, and **DAO architecture**.  
+Focuses on clean separation of concerns, data integrity, and real-world CRUD operations.  
 🔗 Repository: https://github.com/RohitMane2005/java-library-management-system
 
 ---
 
 ### 🔹 Personal Portfolio Website
 **Tech:** HTML, CSS, JavaScript  
-A responsive portfolio showcasing projects and skills with modern UI, glassmorphism design, and smooth animations.  
+A responsive personal portfolio featuring **glassmorphism UI**, **smooth animations**, and modular JavaScript for better maintainability.  
+Designed with strong focus on **UI/UX consistency and performance**.  
 🔗 Live Demo / Repo: https://github.com/RohitMane2005/portfolio
 
 ---
-
 
 ## 📊 GitHub Stats
 
@@ -103,9 +106,9 @@ A responsive portfolio showcasing projects and skills with modern UI, glassmorph
 
 ## 🧩 Engineering Mindset
 
-> **Consistency over motivation.**  
-> **Clarity over cleverness.**  
-> **Learning as a lifelong process.**
+> **Consistency over motivation**  
+> **Simplicity over overengineering**  
+> **Learning through building**
 
 ---
 
