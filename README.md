@@ -1,10 +1,10 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi,+I'm+Rohit+Mane;Software+Engineer+|+Java+%7C+DSA+%7C+Full+Stack" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi,+I'm+Rohit+Mane;Software+Engineer+%7C+Java+%7C+DSA+%7C+Full+Stack" />
 
 <p align="center">
-  <b>Designing scalable systems & building real world solutions with clean, maintainable code.</b>
+  <b>Building scalable systems and real-world software with clean, maintainable code.</b>
 </p>
 
 </div>
@@ -13,14 +13,15 @@
 
 ## 🧠 About Me
 
-I’m a **Software Engineer** passionate about building scalable backend systems and intuitive full-stack applications, with a focus on:
+I’m a **Software Engineer** focused on building **robust backend systems** and **clean full-stack applications** using solid engineering fundamentals.
 
-- Writing **clean, maintainable, high-performance code**
-- Solving complex problems with **Data Structures & Algorithms**
-- Designing **modular architectures** and **practical engineering solutions**
-- Building **real products** that deliver value
+I specialize in:
+- Writing **clean, maintainable, and efficient code**
+- Solving problems using **Data Structures & Algorithms**
+- Designing **modular, scalable architectures**
+- Building **real-world systems**, not just demos
 
-I love optimizing systems, refining user experiences, and exploring backend design patterns and best practices.
+I enjoy refining system performance, improving usability, and applying best practices from backend engineering and system design.
 
 ---
 
@@ -49,21 +50,31 @@ I love optimizing systems, refining user experiences, and exploring backend desi
 
 ### 🔹 Java Library Management System
 **Tech:** Java · JDBC · MySQL  
-A role-based backend system implementing book issue/return workflows, persistent storage, and clean DAO-driven architecture.  
-Focus: system design, scalability, and robust transaction logic.  
+
+A role-based backend system with:
+- Book issue / return workflows
+- Persistent database storage
+- Clean **DAO-based architecture**
+
+**Focus:** backend design, data consistency, and scalable logic  
 🔗 https://github.com/RohitMane2005/java-library-management-system
 
 ---
 
 ### 🔹 Personal Portfolio Website
 **Tech:** HTML · CSS · JavaScript  
-Responsive portfolio demonstrating professional UI/UX, modern design patterns, and clean frontend structure.  
-Focus: responsiveness, usability, and performance optimizations.  
+
+A responsive portfolio showcasing:
+- Modern UI/UX design
+- Clean frontend structure
+- Performance-focused JavaScript
+
+**Focus:** usability, responsiveness, and maintainable UI  
 🔗 https://github.com/RohitMane2005/portfolio
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -80,18 +91,18 @@ Focus: responsiveness, usability, and performance optimizations.
 
 ## 🏆 What I Bring
 
-- **System building mindset** — from design to deployment  
-- **Practical problem solving** with optimized solutions  
-- **Consistent growth** through learning and building  
-- **Collaborative engineering mindset**
+- **Engineering mindset** — design → implementation → refinement  
+- **Strong fundamentals** in Java & DSA  
+- **Problem-solving focus** over memorized solutions  
+- **Consistency** through continuous learning and building  
 
 ---
 
 ## 📌 Engineering Principles
 
-> **Clarity over cleverness.**  
-> **Testing before release.**  
-> **Modular design for future growth.**
+> **Clarity over cleverness**  
+> **Simple designs scale better**  
+> **Build → Measure → Improve**
 
 ---
 
