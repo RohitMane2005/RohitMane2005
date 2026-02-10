@@ -41,7 +41,7 @@ I enjoy refining system performance, improving usability, and applying best prac
 ## ⚙️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github&theme=dark" />
 </div>
 
 ---
