@@ -1,24 +1,47 @@
 <div align="center">
 
-```
-██████╗  ██████╗ ██╗  ██╗██╗████████╗    ███╗   ███╗ █████╗ ███╗   ██╗███████╗
-██╔══██╗██╔═══██╗██║  ██║██║╚══██╔══╝    ████╗ ████║██╔══██╗████╗  ██║██╔════╝
-██████╔╝██║   ██║███████║██║   ██║       ██╔████╔██║███████║██╔██╗ ██║█████╗
-██╔══██╗██║   ██║██╔══██║██║   ██║       ██║╚██╔╝██║██╔══██║██║╚██╗██║██╔══╝
-██║  ██║╚██████╔╝██║  ██║██║   ██║       ██║ ╚═╝ ██║██║  ██║██║ ╚████║███████╗
-╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝       ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:39FF14&height=220&section=header&text=ROHIT%20MANE&fontSize=55&fontColor=39FF14&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20Java%20%7C%20DSA%20%7C%20Full%20Stack&descAlignY=55&descSize=18&descColor=C9D1D9" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=650&height=40&lines=%24+whoami;%3E+software_engineer+%7C+java+%7C+dsa+%7C+full_stack;%24+status+--check;%3E+compiling+ideas+into+systems...;%24+_" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=650&height=35&lines=%24+whoami;%3E+backend-focused+software+engineer;%24+status;%3E+compiling+ideas+into+systems...;%24+_" />
 
-![visitors](https://visitcount.itsvg.in/api?id=RohitMane2005&icon=0&color=2)
+<img src="https://visitcount.itsvg.in/api?id=RohitMane2005&icon=0&color=2" />
 
 </div>
 
 <br>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:000000&height=3&width=850" />
+</div>
+
+<br>
+
 ```bash
-rohit@dev:~$ cat about.txt
+rohit@github:~$ neofetch
+```
+
+```
+ ██████╗ ███╗   ███╗          rohit@github.dev
+ ██╔══██╗████╗ ████║          ─────────────────────────────
+ ██████╔╝██╔████╔██║          OS: Engineering Mindset
+ ██╔══██╗██║╚██╔╝██║          Kernel: Java 17 / Core-DSA
+ ██║  ██║██║ ╚═╝ ██║          Shell: /bin/clean-code
+ ╚═╝  ╚═╝╚═╝     ╚═╝          Languages: Java · JS · SQL · HTML/CSS
+                               Focus: Backend Systems, Full-Stack
+                               Principle: clarity > cleverness
+                               Status: building & shipping
+```
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:000000&height=3&width=850" />
+</div>
+
+<br>
+
+```bash
+rohit@github:~$ cat about.txt
 ```
 
 <table align="center">
@@ -28,13 +51,13 @@ rohit@dev:~$ cat about.txt
 > Software Engineer building robust backend systems and clean
 > full-stack applications on solid engineering fundamentals.
 
-> Focus areas:
+> Focus areas
     [x] Clean, maintainable, efficient code
     [x] Data Structures & Algorithms
     [x] Modular, scalable system design
     [x] Real-world systems, not demos
 
-> Philosophy:
+> Philosophy
     clarity > cleverness
     simple designs scale better
     build -> measure -> improve
@@ -46,7 +69,7 @@ rohit@dev:~$ cat about.txt
 <br>
 
 ```bash
-rohit@dev:~$ ls tech_stack/ --tree
+rohit@github:~$ ls tech_stack/ --tree
 ```
 
 <div align="center">
@@ -64,7 +87,7 @@ rohit@dev:~$ ls tech_stack/ --tree
 <br>
 
 ```bash
-rohit@dev:~$ ls projects/ -la
+rohit@github:~$ ls projects/ -la
 ```
 
 <table align="center" width="100%">
@@ -111,7 +134,7 @@ FOCUS  : usability, responsiveness,
 <br>
 
 ```bash
-rohit@dev:~$ git log --stats --author="RohitMane2005"
+rohit@github:~$ git log --stats --author="RohitMane2005"
 ```
 
 <div align="center">
@@ -123,25 +146,35 @@ rohit@dev:~$ git log --stats --author="RohitMane2005"
 
 </div>
 
+<!-- SNAKE_SECTION_START -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/RohitMane2005/RohitMane2005/output/github-contribution-grid-snake-dark.svg" />
+</div>
+<!-- SNAKE_SECTION_END -->
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:000000&height=3&width=850" />
+</div>
+
 <br>
 
 ```bash
-rohit@dev:~$ ./contact.sh --send
+rohit@github:~$ ./contact.sh --send
 ```
 
 <div align="center">
 
-![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/rohit-mane-570487333/)
 [![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:rohitbusiness5@gmail.com)
-
-**LinkedIn:** [linkedin.com/in/rohit-mane-570487333](https://www.linkedin.com/in/rohit-mane-570487333/)
-**Email:** [rohitbusiness5@gmail.com](mailto:rohitbusiness5@gmail.com)
 
 </div>
 
 <br>
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:39FF14&height=120&section=footer" />
 
 ```
 $ echo "thanks for stopping by"
