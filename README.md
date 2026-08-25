@@ -1,312 +1,194 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:1a0a0c,100:0A0A0A&height=170&section=header&text=ROHIT&fontSize=56&fontColor=00F5FF&fontAlignY=42&desc=SOFTWARE%20ENGINEER%20%2F%2F%20JAVA%20%2F%2F%20SPRING%20BOOT%20%2F%2F%20REACT&descAlignY=68&descSize=15&descColor=C5D5DC" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:0A0A0A&height=1" />
 
-<br>
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3000&pause=1200&color=00F5FF&center=true&vCenter=true&width=650&height=30&lines=BUILDING+XSOR;JAVA+%2F+SPRING+BOOT+%2F+REACT+%2F+AI;FREELANCE+%2F%2F+PORTFOLIO+%2F%2F+PRODUCT" />
+<sub>[ SYSTEM ONLINE ]</sub>
 
-<br><br>
+<h1 align="center">
+  <b>ROHIT</b>
+</h1>
 
-<a href="https://github.com/YOUR-GITHUB-USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-0A0A0A?style=flat-square&logo=github&logoColor=00F5FF"/>
-</a>
-&nbsp;
-<a href="https://genzxr.in">
-<img src="https://img.shields.io/badge/PORTFOLIO-0A0A0A?style=flat-square&logo=googlechrome&logoColor=00F5FF"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=flat-square&logo=linkedin&logoColor=00F5FF"/>
-</a>
-&nbsp;
-<a href="mailto:YOUR-EMAIL@example.com">
-<img src="https://img.shields.io/badge/EMAIL-0A0A0A?style=flat-square&logo=gmail&logoColor=00F5FF"/>
-</a>
+<h3 align="center" style="color:#A0A0A0;">SOFTWARE ENGINEER</h3>
+
+<p align="center">
+  Building intelligent systems, backend platforms &amp; ambitious ideas.
+</p>
+
+<p align="center">
+  <a href="#03--featured-projects">PROJECTS</a> &nbsp;·&nbsp;
+  <a href="https://github.com/">GITHUB</a> &nbsp;·&nbsp;
+  <a href="#09--connect">CONTACT</a>
+</p>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=1200&color=E63946&center=true&vCenter=true&width=460&lines=BUILD+%E2%80%A2+BREAK+%E2%80%A2+CREATE;JAVA+%2F%2F+SPRING+BOOT+%2F%2F+REACT;DEPLOYED+ON+RAILWAY+%2F%2F+VERCEL+%2F%2F+OCI" alt="typing-svg" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1C1C,100:1C1C1C&height=1" />
 
 </div>
 
-<br>
+<br/>
 
----
+## 01 // IDENTITY
+
+Software Engineer working across **Java · Spring Boot · React**.
+I turn complex backend problems into clean, deployable systems — then ship them, not just design them.
+
+<br/>
+
+## 02 // CURRENTLY BUILDING
 
 <div align="center">
 
-### `01 / ABOUT`
+```
+> BRAINROT GAME
+```
+
+An idle-clicker web game built in the **Italian Brainrot** aesthetic —
+original character roster, steal/defend mechanic, built for monetization.
+
+`STATUS: ████████░░ 80%`
+
+`React · Vite · Monetization hooks · Persistent save state`
 
 </div>
 
-<table align="center" width="85%">
+<br/>
+
+## 03 // FEATURED PROJECTS
+
+<table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
-I'm a software engineer focused on **Java, Spring Boot, and full-stack backend development**, freelancing under the **Xsor Technologies** brand.
+**● ACTIVE — FLAGSHIP**
+### GitRiage
+GitHub issue triage tool with an ML-backed classifier microservice.
 
-I build and ship production-grade platforms end-to-end — backend architecture, React frontends, and deployment — and write about the process under the **xsor** brand for Indian tech students.
+`Spring Boot · FastAPI · scikit-learn · WebSocket · Docker`
 
-I like software that solves a real problem, ships, and is simple enough to maintain.
+</td>
+<td width="50%" valign="top">
+
+**● ACTIVE — FLAGSHIP**
+### Pathshashtra
+AI-powered career guidance platform, hackathon idea taken to production.
+
+`Spring Boot · React · PostgreSQL · OAuth2 · Groq LLM`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**◐ IN DEVELOPMENT**
+### HireFlow India
+Applicant tracking system built for Indian startup hiring workflows.
+
+`Spring Boot · React · 7-week MVP scope`
+
+</td>
+<td width="50%" valign="top">
+
+**◆ EXPERIMENTAL**
+### LeadMapper
+Local business prospecting tool built on the Google Places API.
+
+`Spring Boot · React · PostgreSQL`
 
 </td>
 </tr>
 </table>
 
-<br>
+<br/>
+
+## 04 // STACK
+
+```text
+LANGUAGES     Java · JavaScript
+BACKEND       Spring Boot · REST APIs · PostgreSQL · OAuth2 / JWT
+FRONTEND      React.js
+AI / SYSTEMS  LLM integration (Groq) · ML microservices (FastAPI, scikit-learn)
+DEPLOY        Railway · Vercel · Oracle Cloud
+TOOLS         Git · GitHub · Docker
+```
+
+<br/>
+
+## 05 // SYSTEM
+
+```text
+rohit@github ~ $ whoami
+
+software-engineer
+
+rohit@github ~ $ focus
+
+backend systems
+ai-assisted platforms
+developer tooling
+
+rohit@github ~ $ status
+
+● ONLINE
+```
+
+<br/>
+
+## 06 // GITHUB ACTIVITY
 
 <div align="center">
 
-### `02 / STACK`
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,postgres,mysql,docker,js,html,css,git,github&theme=dark" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=E63946&icon_color=E63946&text_color=A0A0A0&border_color=1C1C1C&hide_border=false" />
 
 </div>
 
-<br>
+<br/>
 
-<table align="center" width="85%">
-<tr>
-<td align="center">
-
-`JAVA`
-
-Core
-
-</td>
-<td align="center">
-
-`SPRING BOOT`
-
-Backend
-
-</td>
-<td align="center">
-
-`REACT`
-
-Frontend
-
-</td>
-<td align="center">
-
-`POSTGRES / MYSQL`
-
-Data
-
-</td>
-<td align="center">
-
-`DOCKER`
-
-Deploy
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
+## 07 // CONTRIBUTION MATRIX
 
 <div align="center">
 
-### `03 / PROJECTS`
+![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0A0A0A&color=E63946&line=E63946&point=F5F5F5&area=true&hide_border=true)
 
 </div>
 
-<table align="center" width="85%">
+<sub>Code is a daily practice. Build → Break → Learn → Improve → Repeat.</sub>
 
-<tr>
+<br/>
 
-<td width="50%" valign="top">
+## 08 // CONTRIBUTION LOG
 
-<h3>PATHSHASHTRA</h3>
+| YEAR | PROJECTS | STATUS |
+|------|----------|--------|
+| 2026 | GitRiage · Pathshashtra · Brainrot Game | ACTIVE |
+| 2025 | HireFlow India · LeadMapper | CLOSED |
 
-<b>AI-Powered Career Guidance Platform</b>
+<br/>
 
-<br><br>
-
-Started as a hackathon idea and evolved into a production-grade deployed app. Spring Security, JWT, and OAuth2 (Google/GitHub) on the backend, with Groq LLM integration for guidance.
-
-<br><br>
-
-`SPRING BOOT` `REACT` `POSTGRESQL` `DOCKER` `OAUTH2` `GROQ AI`
-
-<br><br>
-
-<a href="https://github.com/YOUR-GITHUB-USERNAME">
-<b>→ EXPLORE</b>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>GITRIAGE</h3>
-
-<b>GitHub Issue Triage Tool</b>
-
-<br><br>
-
-A Spring Boot service paired with a FastAPI ML microservice that auto-triages GitHub issues using TF-IDF/scikit-learn, with real-time updates over WebSocket.
-
-<br><br>
-
-`SPRING BOOT` `FASTAPI` `SCIKIT-LEARN` `WEBSOCKET` `DOCKER COMPOSE`
-
-<br><br>
-
-<a href="https://github.com/YOUR-GITHUB-USERNAME">
-<b>→ EXPLORE</b>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>HIREFLOW INDIA</h3>
-
-<b>ATS for Indian Startups</b>
-
-<br><br>
-
-An applicant tracking system scoped and built as a 7-week MVP, tailored to how Indian startups actually hire.
-
-<br><br>
-
-`SPRING BOOT` `REACT` `MVP`
-
-<br><br>
-
-<a href="https://github.com/YOUR-GITHUB-USERNAME">
-<b>→ EXPLORE</b>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>LEADMAPPER</h3>
-
-<b>Local Business Prospecting Tool</b>
-
-<br><br>
-
-A Google Places-powered tool for mapping and prospecting local businesses, built as a personal portfolio project.
-
-<br><br>
-
-`SPRING BOOT` `REACT` `POSTGRESQL`
-
-<br><br>
-
-<a href="https://github.com/YOUR-GITHUB-USERNAME">
-<b>→ EXPLORE</b>
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
----
+## 09 // CONNECT
 
 <div align="center">
 
-### `04 / CONTRIBUTIONS`
+──────────────────────────────
 
-<br>
+**LET'S BUILD SOMETHING.**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&bg_color=0A0A0A&color=00F5FF&line=E63946&point=00F5FF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="90%"/>
+[GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/) · [Portfolio](https://genzxr.in) · [Email](mailto:you@example.com)
+
+──────────────────────────────
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=00F5FF&icon_color=E63946&text_color=C5D5DC" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=00F5FF&text_color=C5D5DC" width="40%"/>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### `05 / CURRENTLY`
-
-<table width="70%">
-
-<tr>
-<td align="center">LEARNING</td>
-<td>JVM Internals · Concurrency · System Design (six-month Java mastery roadmap, NeetCode 150)</td>
-</tr>
-
-<tr>
-<td align="center">BUILDING</td>
-<td>A monetized web game (Italian Brainrot aesthetic) · Client work under Xsor Technologies</td>
-</tr>
-
-<tr>
-<td align="center">FOCUS</td>
-<td>Java · Spring Boot · React · Backend Engineering</td>
-</tr>
-
-</table>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### `06 / CONTENT`
-
-<br>
-
-Building the **xsor** brand alongside the code — Hinglish tech content for Indian students at <b>@xsor.create</b>, and calisthenics/fitness content at <b>@xsor.thenics</b>.
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### `07 / PRINCIPLES`
-
-<br>
-
-`SHIP OVER PERFECT`
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-`BUILD SIMPLE`
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-`KEEP IMPROVING`
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:00F5FF,100:0A0A0A&height=2&section=footer" width="85%"/>
-
-<br>
-
-<sub>ROHIT · XSOR TECHNOLOGIES · 2026</sub>
-
+<sub>&lt; BUILDING THE FUTURE, ONE COMMIT AT A TIME /&gt;</sub>
+<br/>
+<sub>© 2026</sub>
 </div>
