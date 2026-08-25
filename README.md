@@ -1,34 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:0A0A0A&height=1" />
+<img src="./assets/hero/hero.svg" width="100%" alt="Rohit — Software Engineer" />
 
 <br/>
-
-<sub>[ SYSTEM ONLINE ]</sub>
-
-<h1 align="center">
-  <b>ROHIT</b>
-</h1>
-
-<h3 align="center" style="color:#A0A0A0;">SOFTWARE ENGINEER</h3>
-
-<p align="center">
-  Building intelligent systems, backend platforms &amp; ambitious ideas.
-</p>
 
 <p align="center">
   <a href="#03--featured-projects">PROJECTS</a> &nbsp;·&nbsp;
-  <a href="https://github.com/">GITHUB</a> &nbsp;·&nbsp;
+  <a href="https://github.com/rohitmane2005">GITHUB</a> &nbsp;·&nbsp;
   <a href="#09--connect">CONTACT</a>
 </p>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=1200&color=E63946&center=true&vCenter=true&width=460&lines=BUILD+%E2%80%A2+BREAK+%E2%80%A2+CREATE;JAVA+%2F%2F+SPRING+BOOT+%2F%2F+REACT;DEPLOYED+ON+RAILWAY+%2F%2F+VERCEL+%2F%2F+OCI" alt="typing-svg" />
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1C1C,100:1C1C1C&height=1" />
 
 </div>
 
@@ -144,7 +124,7 @@ rohit@github ~ $ status
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=E63946&icon_color=E63946&text_color=A0A0A0&border_color=1C1C1C&hide_border=false" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=rohitmane2005&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=E63946&icon_color=E63946&text_color=A0A0A0&border_color=1C1C1C&hide_border=false" />
 
 </div>
 
@@ -154,7 +134,7 @@ rohit@github ~ $ status
 
 <div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0A0A0A&color=E63946&line=E63946&point=F5F5F5&area=true&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=rohitmane2005&bg_color=0A0A0A&color=E63946&line=E63946&point=F5F5F5&area=true&hide_border=true)
 
 </div>
 
@@ -179,7 +159,7 @@ rohit@github ~ $ status
 
 **LET'S BUILD SOMETHING.**
 
-[GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/) · [Portfolio](https://genzxr.in) · [Email](mailto:you@example.com)
+[GitHub](https://github.com/rohitmane2005) · [LinkedIn](https://linkedin.com/) · [Portfolio](https://genzxr.in) · [Email](mailto:you@example.com)
 
 ──────────────────────────────
 
