@@ -1,174 +1,18 @@
-<div align="center">
+# 💫 About Me:
+Aspiring Java Developer | Java, OOP, DSA | Building real-world projects | Open to software internships
 
-<img src="./assets/hero/hero.svg" width="100%" alt="Rohit — Software Engineer" />
 
-<br/>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rohitmane2005) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitbusiness9115@gmail.com) 
 
-<p align="center">
-  <a href="#03--featured-projects">PROJECTS</a> &nbsp;·&nbsp;
-  <a href="https://github.com/rohitmane2005">GITHUB</a> &nbsp;·&nbsp;
-  <a href="#09--connect">CONTACT</a>
-</p>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=RohitMane2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=RohitMane2005&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=RohitMane2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
+---
+[![](https://komarev.com/ghpvc/?username=RohitMane2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br/>
-
-## 01 // IDENTITY
-
-Software Engineer working across **Java · Spring Boot · React**.
-I turn complex backend problems into clean, deployable systems — then ship them, not just design them.
-
-<br/>
-
-## 02 // CURRENTLY BUILDING
-
-<div align="center">
-
-```
-> BRAINROT GAME
-```
-
-An idle-clicker web game built in the **Italian Brainrot** aesthetic —
-original character roster, steal/defend mechanic, built for monetization.
-
-`STATUS: ████████░░ 80%`
-
-`React · Vite · Monetization hooks · Persistent save state`
-
-</div>
-
-<br/>
-
-## 03 // FEATURED PROJECTS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**● ACTIVE — FLAGSHIP**
-### GitRiage
-GitHub issue triage tool with an ML-backed classifier microservice.
-
-`Spring Boot · FastAPI · scikit-learn · WebSocket · Docker`
-
-</td>
-<td width="50%" valign="top">
-
-**● ACTIVE — FLAGSHIP**
-### Pathshashtra
-AI-powered career guidance platform, hackathon idea taken to production.
-
-`Spring Boot · React · PostgreSQL · OAuth2 · Groq LLM`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**◐ IN DEVELOPMENT**
-### HireFlow India
-Applicant tracking system built for Indian startup hiring workflows.
-
-`Spring Boot · React · 7-week MVP scope`
-
-</td>
-<td width="50%" valign="top">
-
-**◆ EXPERIMENTAL**
-### LeadMapper
-Local business prospecting tool built on the Google Places API.
-
-`Spring Boot · React · PostgreSQL`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 04 // STACK
-
-```text
-LANGUAGES     Java · JavaScript
-BACKEND       Spring Boot · REST APIs · PostgreSQL · OAuth2 / JWT
-FRONTEND      React.js
-AI / SYSTEMS  LLM integration (Groq) · ML microservices (FastAPI, scikit-learn)
-DEPLOY        Railway · Vercel · Oracle Cloud
-TOOLS         Git · GitHub · Docker
-```
-
-<br/>
-
-## 05 // SYSTEM
-
-```text
-rohit@github ~ $ whoami
-
-software-engineer
-
-rohit@github ~ $ focus
-
-backend systems
-ai-assisted platforms
-developer tooling
-
-rohit@github ~ $ status
-
-● ONLINE
-```
-
-<br/>
-
-## 06 // GITHUB ACTIVITY
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=rohitmane2005&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=E63946&icon_color=E63946&text_color=A0A0A0&border_color=1C1C1C&hide_border=false" />
-
-</div>
-
-<br/>
-
-## 07 // CONTRIBUTION MATRIX
-
-<div align="center">
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=rohitmane2005&bg_color=0A0A0A&color=E63946&line=E63946&point=F5F5F5&area=true&hide_border=true)
-
-</div>
-
-<sub>Code is a daily practice. Build → Break → Learn → Improve → Repeat.</sub>
-
-<br/>
-
-## 08 // CONTRIBUTION LOG
-
-| YEAR | PROJECTS | STATUS |
-|------|----------|--------|
-| 2026 | GitRiage · Pathshashtra · Brainrot Game | ACTIVE |
-| 2025 | HireFlow India · LeadMapper | CLOSED |
-
-<br/>
-
-## 09 // CONNECT
-
-<div align="center">
-
-──────────────────────────────
-
-**LET'S BUILD SOMETHING.**
-
-[GitHub](https://github.com/rohitmane2005) · [LinkedIn](https://linkedin.com/) · [Portfolio](https://genzxr.in) · [Email](mailto:you@example.com)
-
-──────────────────────────────
-
-</div>
-
-<br/>
-
-<div align="center">
-<sub>&lt; BUILDING THE FUTURE, ONE COMMIT AT A TIME /&gt;</sub>
-<br/>
-<sub>© 2026</sub>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
